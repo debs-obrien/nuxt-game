@@ -5,3 +5,5 @@ This game was created for a live stream to show how to migrate an app from Vue t
 Thanks Sarah.
 
 Feel free to clone it and create your own fun game.
+
+[Demo](https://nuxt-game.netlify.app/)
