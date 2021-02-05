@@ -264,6 +264,9 @@ text {
   color: #1e1e1e;
   border: 1px solid #cfcece;
 }
+.zombietalk button:focus {
+  outline: none;
+}
 
 .text {
   fill: white;
